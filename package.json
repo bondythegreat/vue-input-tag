@@ -11,7 +11,7 @@
   "main": "dist/vue-input-tag.min.js",
   "repository" :
   { "type" : "git",
-    "url" : "https://github.com/bondythegreat/vue-input-tag.git"
+    "url" : "https://github.com/bondythegreat/vue-input-tag"
   },
   "homepage": "https://bondythegreat.github.io/vue-input-tag",
   "license": "MIT",
