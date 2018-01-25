@@ -1,13 +1,11 @@
 {
-  "name": "@bondythegreat/vue-input-tag",
+  "name": "itomic-vue-input-tag",
   "version": "0.0.16",
   "description": "Vue.js input tag editor component",
   "keywords": [
-    "input",
-    "tag",
-    "inputtag"
   ],
-  "author": "bondythegreat (bondan@itomic.com.au)",
+  "author": "Matias Tucci <matiastucci@gmail.com>",
+  "contributors": "Bondan Sentanu <bondan@itomic.com.au>",
   "main": "dist/vue-input-tag.min.js",
   "repository" :
   { "type" : "git",
