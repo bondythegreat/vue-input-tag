@@ -1,5 +1,5 @@
 {
-  "name": "@bondythegreat/vue-input-tag",
+  "name": "vue-input-tag-voyager",
   "version": "0.0.16",
   "description": "Vue.js input tag editor component",
   "keywords": [
@@ -7,10 +7,10 @@
     "tag",
     "inputtag"
   ],
-  "author": "Matias Tucci <matiastucci@gmail.com>",
+  "author": "bondythegreat (bondan@itomic.com.au)",
   "main": "dist/vue-input-tag.min.js",
-  "repository": "https://github.com/matiastucci/vue-input-tag",
-  "homepage": "https://matiastucci.github.io/vue-input-tag",
+  "repository": "https://github.com/bondythegreat/vue-input-tag",
+  "homepage": "https://bondythegreat.github.io/vue-input-tag",
   "license": "MIT",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
